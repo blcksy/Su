@@ -1,5 +1,5 @@
 # Su
 
 * Lists.
-* Sripts.
+* Scripts.
 * Ideas.
