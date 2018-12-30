@@ -1,5 +1,4 @@
 # Su
 
 * Lists.
-* Scripts.
-* Ideas.
+* Lyrics.
