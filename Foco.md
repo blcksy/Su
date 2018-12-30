@@ -1,7 +1,7 @@
 Foco:
 
 	Todo avanza muy despeacito
-	y del reves
+	y del revés
 	en tres direcciones
 	a la vez.
 
