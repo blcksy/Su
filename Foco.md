@@ -1,11 +1,1 @@
-Foco:
-
-	Todo avanza muy despeacito
-	y del revés
-	en tres direcciones
-	a la vez.
-
-	Mucho tiempo invertido
-	en comprender
-	que lo que miraba en el espejo / que lo del espejo
-	no debo ser.
+0oHuN39DciKu1DBO43v4QYkaKj6QMPO7AQ+TSpDXHJC+Qx9czAuNIUgL/zp1OY+2IChVAqwli7yMWqLNJA3YoJIVj8jCijTL/hE0pWn8TjPNePwvQXfR7Rxa0zmVxmuAdDxqADUlAw5LtdiRIJ/fVc2dDVqHdUsgBhvBBv/KWhFT9t6Tou/5dXi1EB9THbeWcLcLVz7tBRpFMABx9XHtPR820z/pJWq0WpHyJxwBJFechkRKoZDjIkzjJm5BdKCH
