@@ -1,5 +1,6 @@
 # Su
 
+* Code.
 * Lists.
 * Lyrics.
-* Anything else.
+* Else.
