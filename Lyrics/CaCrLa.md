@@ -46,10 +46,10 @@ A ese viejo roñoso
 “¡El campamento está maldito!”  
 O al menos eso entendimos    
 
-Seguimos nuestro camino 	 
-armando mucho alboroto    
-El sitio estaba bien     
-Parecía algo ignoto    
+Seguimos nuestro camino   	 
+armando mucho alboroto      
+El sitio estaba bien       
+Parecía algo ignoto      
 
 ## ESTRIBILLO 2:
 
