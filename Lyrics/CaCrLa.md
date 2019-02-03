@@ -17,7 +17,7 @@ Preguntaste a Guillermo si vendría?
 
 - ¿Que tal? Sí, estamos preparando las cosas  
  
-[De fondo: ¿oye cual de estos dos me queda mejor?]
+[De fondo: ¿Dondeye cual de estos dos me queda mejor?]
  
 - ¡Si es Emilia, dile que se ponga el bikini rojo!
 Sois unos cerdos.
@@ -48,7 +48,7 @@ O al menos eso entendimos
 
 Seguimos nuestro camino 	 
 armando mucho alboroto  
-El sitio estaba bien  
+El sitio estaba bien   
 Parecía algo ignoto  
 
 ## ESTRIBILLO 2:
