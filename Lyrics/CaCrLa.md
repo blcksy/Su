@@ -47,9 +47,9 @@ A ese viejo roñoso
 O al menos eso entendimos    
 
 Seguimos nuestro camino 	 
-armando mucho alboroto  
-El sitio estaba bien   
-Parecía algo ignoto  
+armando mucho alboroto    
+El sitio estaba bien     
+Parecía algo ignoto    
 
 ## ESTRIBILLO 2:
 
