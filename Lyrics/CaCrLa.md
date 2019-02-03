@@ -66,9 +66,9 @@ Oye, ¿qué le pasa?
 ¡La han acuchillado!  
 
 Mira a Emilia	 
-Nadando en el lago	 
-Bueno ya no nada    
-¿La habrán ahogado?  
+Nadando en el lago  	 
+Bueno ya no nada      
+¿La habrán ahogado?    
 
 Mira a Francisco    
 Tirando con el arco    
@@ -106,10 +106,10 @@ dio resultado.
 
 ## ESTRIBILLO 4:
 
-Campamento Crystal Lake  
-¡EL INFIERNO EN LA TIERRA!
-Campamento Crystal Lake  
-¡SÁLVESE QUIEN PUEDA!
+Campamento Crystal Lake    
+¡EL INFIERNO EN LA TIERRA!  
+Campamento Crystal Lake    
+¡SÁLVESE QUIEN PUEDA!  
 
 -------------------------
 
